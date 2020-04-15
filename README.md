@@ -1,6 +1,6 @@
 # OpenWeather
 
-If you want to fast check weather in the particular city.
+If you want to fast check the weather in a particular city.
 
 ![App view](OpenWeather.png)
 
